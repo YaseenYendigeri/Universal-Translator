@@ -1,0 +1,6 @@
+flask
+transformers
+sentencepiece
+torch
+langdetect
+

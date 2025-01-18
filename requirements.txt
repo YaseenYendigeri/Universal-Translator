@@ -3,4 +3,4 @@ transformers
 sentencepiece
 torch
 langdetect
-
+gunicorn
